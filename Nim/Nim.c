@@ -1,3 +1,12 @@
+/*
+ ============================================================================
+ Name        : Hw1.c
+ Author      : aviv 307974162
+ Version     :
+ Copyright   : Your copyright notice
+ Description : Hello World in C, Ansi-style
+ ============================================================================
+ */
 
 #include <stdio.h>
 #include <stdlib.h>
