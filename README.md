@@ -2,4 +2,5 @@
 ## Author:
 Aviv Rovshitz
 ### several projects:
-1. Boggle-Word game.
+1. Gnim game
+2. Boggle-Word game.

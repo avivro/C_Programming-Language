@@ -1,5 +1,4 @@
-# C_Programming-Language
-## Author:
-Aviv Rovshitz
-### several projects:
-1. Boggle-Word game.
+## Boggle-Word game:
+https://en.wikipedia.org/wiki/Boggle
+
+Attached an explanation page for the assignment
