@@ -9,7 +9,7 @@
 #define STRING_SIZE MATRIX_SIZE*MATRIX_SIZE+1
 
 /*
- *  solution use recursive depth-first search (DFS)
+ *  Solution: based on depth-first search(DFS) algorithm
  */
 
 int main(void) {
