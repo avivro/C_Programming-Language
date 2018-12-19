@@ -1,7 +1,6 @@
 package com.example.student.trivia_app.activities;
 
 import com.example.student.trivia_app.model.User;
-
 import android.content.Intent;
 import android.graphics.Color;
 import android.os.Bundle;
