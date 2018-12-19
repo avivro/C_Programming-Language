@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Trivia-App</string>
+    <string name="title_activity_questions">QuestionsActivity</string>
+    <string name="title_activity_game">GameActivity</string>
+    <string name="title_activity_category">CategoryActivity</string>
+    <string name="title_activity_admin_selection">AdminSelection</string>
+</resources>
